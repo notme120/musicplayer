@@ -71,7 +71,7 @@ header h2 {
   width: 200px;
 }
 .cd-soundwave {
-  background: url(/assets/img/sw.png) no-repeat center/contain;
+  background: url(assets/img/sw.png) no-repeat center/contain;
   z-index: -1;
 }
 
